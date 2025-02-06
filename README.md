@@ -1,2 +1,3 @@
 # ML-Model
-Machine learning model used for identifying the is there tumor or not through CT scan and MRI images.
+Brain Tumor Classification Using EfficientNet
+This Jupyter Notebook implements a brain tumor classification model using EfficientNet. The model is trained on a dataset of brain CT scan images, classifying them into different categories.
